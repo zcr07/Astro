@@ -18,7 +18,7 @@ collections:
           label: "简介",
           name: "description",
           widget: "string",
-          default: "这是一篇有意思的文章",
+          default: "",
           required: true,
         }
       - {
@@ -42,7 +42,7 @@ collections:
           label: "简介",
           name: "description",
           widget: "string",
-          default: "这是一篇有意思的文章",
+          default: "",
           required: true,
         }
       - {
